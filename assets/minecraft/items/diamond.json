@@ -1,0 +1,23 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "model": "minecraft:item/diamond",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": {
+          "text": "Banner"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/ck_banner"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond"
+    }
+  }
+}
