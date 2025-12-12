@@ -3,8 +3,8 @@
 	"parent": "diamond",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/ck_banner",
-		"particle": "custom/ck_banner"
+		"0": "custom/c_banner",
+		"particle": "custom/c_banner"
 	},
 	"elements": [
 		{
@@ -78,11 +78,11 @@
 			"to": [20, 19, 8],
 			"faces": {
 				"north": {"uv": [0, 0, 6, 8.5], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 8.5], "texture": "#missing"},
-				"south": {"uv": [6, 0, 12, 8.5], "texture": "#missing"},
-				"west": {"uv": [0, 0, 0, 8.5], "texture": "#missing"},
-				"up": {"uv": [6, 0, 0, 0], "texture": "#missing"},
-				"down": {"uv": [6, 0, 0, 0], "texture": "#missing"}
+				"east": {"uv": [0, 0, 0, 8.5], "texture": "#0"},
+				"south": {"uv": [6, 0, 12, 8.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 8.5], "texture": "#0"},
+				"up": {"uv": [6, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 0, 0], "texture": "#0"}
 			}
 		}
 	],

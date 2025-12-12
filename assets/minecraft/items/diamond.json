@@ -7,11 +7,38 @@
     "cases": [
       {
         "when": {
-          "text": "Banner"
+          "text": "c"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/c_banner"
+        }
+      },
+      {
+        "when": {
+          "text": "w"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/w_banner"
+        }
+      },
+      {
+        "when": {
+          "text": "ck"
         },
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/ck_banner"
+        }
+      },
+      {
+        "when": {
+          "text": "banner"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/banner"
         }
       }
     ],
