@@ -16,6 +16,15 @@
       },
       {
         "when": {
+          "text": "k"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/k_banner"
+        }
+      },
+      {
+        "when": {
           "text": "w"
         },
         "model": {
