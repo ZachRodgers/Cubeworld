@@ -1,0 +1,59 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "model": "minecraft:item/name_tag",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": {
+          "text": "dinoland"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/dinoland"
+        }
+      },
+      {
+        "when": {
+          "text": "pirate"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/pirate"
+        }
+      },
+      {
+        "when": {
+          "text": "magma"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/magma"
+        }
+      },
+      {
+        "when": {
+          "text": "crystal"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/crystal"
+        }
+      },
+      {
+        "when": {
+          "text": "haunted"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/haunted"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/name_tag"
+    }
+  }
+}
