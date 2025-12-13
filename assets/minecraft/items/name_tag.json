@@ -20,45 +20,70 @@
         }
       },
       {
-        "when": {
-          "text": "piratecove"
-        },
+        "when":[
+          {
+            "extra": [
+              "piratecove"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/piratecove"
         }
       },
       {
-        "when": {
-          "text": "magmamines"
-        },
+        "when": [
+          {
+            "extra": [
+              "magmamines"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/magmamines"
         }
       },
       {
-        "when": {
-          "text": "crystalcaverns"
-        },
+        "when": [
+          {
+            "extra": [
+              "crystalcaverns"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/crystalcaverns"
         }
       },
       {
-        "when": {
-          "text": "ghosttown"
-        },
+        "when": [
+          {
+            "extra": [
+              "ghosttown"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/ghosttown"
         }
       },
       {
-        "when": {
-          "text": "casino"
-        },
+        "when": [
+          {
+            "extra": [
+              "casino"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/casino"
