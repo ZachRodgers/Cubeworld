@@ -5,906 +5,906 @@
     "property": "minecraft:component",
     "component": "minecraft:lore",
     "cases": [
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_a"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_a"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_b"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_b"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_c"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_c"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_d"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_d"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_e"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_e"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_f"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_f"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_g"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_g"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_h"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_h"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_i"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_i"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_j"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_j"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_k"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_k"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_l"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_l"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_m"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_m"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_n"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_n"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_o"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_o"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_p"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_p"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_q"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_q"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_r"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_r"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_s"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_s"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_t"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_t"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_u"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_u"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_v"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_v"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_w"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_w"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_x"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_x"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_y"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_y"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_z"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_z"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_ck"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_ck"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_exclamation"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_exclamation"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_question"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_question"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_colon"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_colon"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "blue_banner_dash"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/blue_banner_dash"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_a"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_a"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_b"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_b"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_c"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_c"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_d"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_d"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_e"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_e"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_f"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_f"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_g"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_g"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_h"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_h"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_i"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_i"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_j"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_j"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_k"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_k"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_l"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_l"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_m"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_m"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_n"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_n"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_o"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_o"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_p"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_p"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_q"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_q"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_r"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_r"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_s"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_s"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_t"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_t"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_u"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_u"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_v"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_v"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_w"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_w"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_x"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_x"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_y"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_y"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_z"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_z"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_ck"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_ck"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_exclamation"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_exclamation"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_question"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_question"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_colon"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_colon"
-          }
-      },
-      {
-          "when": [
-              {
-                  "extra": [
-                      "yellow_banner_dash"
-                  ],
-                  "text": ""
-              }
-          ],
-          "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/yellow_banner_dash"
-          }
-      }
-  ],
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_a"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_a"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_b"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_b"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_c"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_c"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_d"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_d"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_e"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_e"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_f"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_f"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_g"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_g"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_h"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_h"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_i"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_i"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_j"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_j"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_k"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_k"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_l"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_l"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_m"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_m"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_n"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_n"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_o"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_o"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_p"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_p"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_q"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_q"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_r"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_r"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_s"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_s"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_t"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_t"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_u"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_u"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_v"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_v"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_w"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_w"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_x"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_x"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_y"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_y"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_z"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_z"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_ck"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_ck"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_exclamation"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_exclamation"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_question"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_question"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_colon"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_colon"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "blue_banner_dash"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/blue_banner_dash"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_a"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_a"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_b"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_b"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_c"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_c"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_d"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_d"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_e"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_e"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_f"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_f"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_g"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_g"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_h"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_h"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_i"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_i"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_j"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_j"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_k"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_k"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_l"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_l"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_m"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_m"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_n"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_n"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_o"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_o"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_p"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_p"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_q"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_q"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_r"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_r"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_s"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_s"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_t"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_t"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_u"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_u"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_v"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_v"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_w"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_w"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_x"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_x"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_y"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_y"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_z"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_z"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_ck"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_ck"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_exclamation"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_exclamation"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_question"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_question"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_colon"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_colon"
+        }
+    },
+    {
+        "when": [
+            {
+                "extra": [
+                    "yellow_banner_dash"
+                ],
+                "text": ""
+            }
+        ],
+        "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/banners/yellow_banner_dash"
+        }
+    }
+    ],
     "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/diamond"
+        "type": "minecraft:model",
+        "model": "minecraft:item/diamond"
     }
   }
 }

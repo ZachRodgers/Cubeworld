@@ -16,7 +16,7 @@
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/white_golf_ball"
+          "model": "minecraft:item/golf_balls/white_golf_ball"
         }
       }
     ],
