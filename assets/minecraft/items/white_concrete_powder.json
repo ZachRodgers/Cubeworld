@@ -3,7 +3,7 @@
     "type": "minecraft:select",
     "model": "minecraft:item/white_concrete_powder",
     "property": "minecraft:component",
-    "component": "minecraft:custom_name",
+    "component": "minecraft:lore",
     "cases": [
       {
         "when": [
