@@ -16,38 +16,47 @@
       },
       {
         "when": {
-          "text": "pirate"
+          "text": "piratecove"
         },
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/pirate"
+          "model": "minecraft:item/piratecove"
         }
       },
       {
         "when": {
-          "text": "magma"
+          "text": "magmamines"
         },
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/magma"
+          "model": "minecraft:item/magmamines"
         }
       },
       {
         "when": {
-          "text": "crystal"
+          "text": "crystalcaverns"
         },
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/crystal"
+          "model": "minecraft:item/crystalcaverns"
         }
       },
       {
         "when": {
-          "text": "haunted"
+          "text": "ghosttown"
         },
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/haunted"
+          "model": "minecraft:item/ghosttown"
+        }
+      },
+      {
+        "when": {
+          "text": "casino"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/casino"
         }
       }
     ],
