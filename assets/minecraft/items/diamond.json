@@ -387,6 +387,20 @@
           "when": [
               {
                   "extra": [
+                      "blue_banner_ck"
+                  ],
+                  "text": ""
+              }
+          ],
+          "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/blue_banner_ck"
+          }
+      },
+      {
+          "when": [
+              {
+                  "extra": [
                       "blue_banner_exclamation"
                   ],
                   "text": ""
@@ -815,6 +829,20 @@
           "model": {
               "type": "minecraft:model",
               "model": "minecraft:item/yellow_banner_z"
+          }
+      },
+      {
+          "when": [
+              {
+                  "extra": [
+                      "yellow_banner_ck"
+                  ],
+                  "text": ""
+              }
+          ],
+          "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/yellow_banner_ck"
           }
       },
       {
