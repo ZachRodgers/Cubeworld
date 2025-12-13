@@ -3,12 +3,17 @@
     "type": "minecraft:select",
     "model": "minecraft:item/gold_ingot",
     "property": "minecraft:component",
-    "component": "minecraft:custom_name",
+    "component": "minecraft:lore",
     "cases": [
       {
-        "when": {
-          "text": "CubeKoin"
-        },
+        "when": [
+          {
+            "extra": [
+              "cubekoin"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/cubekoin"

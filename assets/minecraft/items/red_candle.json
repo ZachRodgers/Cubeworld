@@ -3,12 +3,17 @@
     "type": "minecraft:select",
     "model": "minecraft:item/red_candle",
     "property": "minecraft:component",
-    "component": "minecraft:custom_name",
+    "component": "minecraft:lore",
     "cases": [
       {
-        "when": {
-          "text": "flag"
-        },
+        "when": [
+          {
+            "extra": [
+              "golf_flag"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/golf_flag"

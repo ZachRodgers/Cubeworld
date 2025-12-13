@@ -6,9 +6,14 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": {
-          "text": "golf"
-        },
+        "when": [
+          {
+            "extra": [
+              "white_golf_ball"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/white_golf_ball"

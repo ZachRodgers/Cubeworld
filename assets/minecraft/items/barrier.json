@@ -3,12 +3,17 @@
     "type": "minecraft:select",
     "model": "minecraft:item/barrier",
     "property": "minecraft:component",
-    "component": "minecraft:custom_name",
+    "component": "minecraft:lore",
     "cases": [
       {
-        "when": {
-          "text": "x"
-        },
+        "when": [
+          {
+            "extra": [
+              "x_sand"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/x_sand"

@@ -3,51 +3,76 @@
     "type": "minecraft:select",
     "model": "minecraft:item/name_tag",
     "property": "minecraft:component",
-    "component": "minecraft:custom_name",
+    "component": "minecraft:lore",
     "cases": [
       {
-        "when": {
-          "text": "dinoland"
-        },
+        "when": [
+          {
+            "extra": [
+              "dinoland"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/dinoland"
         }
       },
       {
-        "when": {
-          "text": "pirate"
-        },
+        "when": [
+          {
+            "extra": [
+              "pirate_cove"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/pirate"
+          "model": "minecraft:item/pirate_cove"
         }
       },
       {
-        "when": {
-          "text": "magma"
-        },
+        "when": [
+          {
+            "extra": [
+              "magma_mines"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/magma"
+          "model": "minecraft:item/magma_mines"
         }
       },
       {
-        "when": {
-          "text": "crystal"
-        },
+        "when": [
+          {
+            "extra": [
+              "crystal_caverns"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/crystal"
+          "model": "minecraft:item/crystal_caverns"
         }
       },
       {
-        "when": {
-          "text": "haunted"
-        },
+        "when": [
+          {
+            "extra": [
+              "ghost_town"
+            ],
+            "text": ""
+          }
+        ],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/haunted"
+          "model": "minecraft:item/ghost_town"
         }
       }
     ],
